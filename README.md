@@ -6,7 +6,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
 
 ### 1. How have sales price trends changed over the 2001–2023 period overall, by Property Type and Town?
 #### 1.1. Overall
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.1%20Connecticut_property_sales_over_time.png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.1%20Connecticut_property_sales_over_time.png?raw=true"
+  width="900"
+/>
 
 #### Observations
 - Clear Sales volatility throughout years
@@ -16,7 +20,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
 - 2022–2023: Rising interest rates, elevated inflation, and affordability constraints dampen momentum
 
 #### 1.2 By Property Type
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.2%20Sales_trends_by_property_type.png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.2%20Sales_trends_by_property_type.png?raw=true"
+  width="900"
+/>
 
 #### Observations
 - 1 & 2 Family properties consistently dominate sales value across the entire period
@@ -43,7 +51,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
 - **Bridgeport and Danbury show relative contraction, reflecting more reliance on volume than high per-sale value**
 
 ### 2.1 How does sale price vary with assessed value?
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/2.1%20Sales_vs_value_scatter_plot_(log_scale).png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/2.1%20Sales_vs_value_scatter_plot_(log_scale).png?raw=true"
+  width="900"
+/>
 
 #### Observations
 - **Strong positive Correlation of 0.71**
@@ -55,7 +67,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
   - This indicates that sale prices are more sensitive to other factors (deal structure, zoning and redevelopment options)
 
 ### 2.2 Does property type influence the % Profit on Sale?
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/2.2.%20%25_Profit_Distribution_by_Property_Type.png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/2.2.%20%25_Profit_Distribution_by_Property_Type.png?raw=true"
+  width="900"
+/>
 
 #### Observations 
 - **Residential properties exhibit tighter and more symmetric profit distributions**
@@ -66,7 +82,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
   - This reflects the heterogeneity of these assets, where sale outcomes depend on other factors  as seen before (redevelopment potential, income streams, zoning changes)
 
 ### 3.  Which towns or regions have the highest sale price over the years?
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/3.%20Filled%20Map.png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/3.%20Filled%20Map.png?raw=true"
+  width="900"
+/>
 
 #### Observations
 - **Southwestern Connecticut clearly dominates median sale prices**
@@ -81,7 +101,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
     - Eastern Connecticut has historically experienced slower population and income growth, particularly post-manufacturing decline
 
 ### 4.1 How do median household income, education levels, or poverty rates correlate with prices and sales activity?
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/4.%20Demographics_correlation_heatmap.png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/4.%20Demographics_correlation_heatmap.png?raw=true"
+  width="900"
+/>
 
 #### Observations
 - **As expected, income and education are highly correlated**
@@ -94,7 +118,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
   - Deviations from assessed values are driven more by market dynamics
 
 ### 5. How did COVID-19 pandemic years affect sale prices and volumes in Connecticut?
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/5.%20COVID%20YoY%20growth.png?raw=true)
+
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/5.%20COVID%20YoY%20growth.png?raw=true"
+  width="900"
+/>
 
 #### Observations
 - **YoY metrics are used here to remove seasonality and isolate structural shocks**
