@@ -1,6 +1,5 @@
-# Connecticut Real Estate Sales EDA (1999–2024)
-Exploratory Data Analysis of 1.1M+ real estate transactions in Connecticut.
-Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term trends in pricing, property types and towns.
+# Exploratory Analysis - Connecticut Real Estate Sales (1999–2024)
+In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identify trends from over 1.1 million rows of real estate data.
 
 ## Key Questions, Charts & Analysis
 
