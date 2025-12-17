@@ -81,7 +81,7 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
   - Even with fliers removed, commercial and other non-resi property types exhibit broader profit distributions
   - This reflects the heterogeneity of these assets, where sale outcomes depend on other factors  as seen before (redevelopment potential, income streams, zoning changes)
 
-### 3.  Which towns or regions have the highest sale price over the years?
+### 3. Which towns or regions have the highest sale price over the years?
 
 <img 
   src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/3.%20Filled%20Map.png?raw=true"
@@ -100,7 +100,7 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
     - More dependent on local or regional employment
     - Eastern Connecticut has historically experienced slower population and income growth, particularly post-manufacturing decline
 
-### 4.1 How do median household income, education levels, or poverty rates correlate with prices and sales activity?
+### 4. How do median household income, education levels, or poverty rates correlate with prices and sales activity?
 
 <img 
   src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/4.%20Demographics_correlation_heatmap.png?raw=true"
