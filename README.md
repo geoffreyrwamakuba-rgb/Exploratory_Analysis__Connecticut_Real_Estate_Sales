@@ -25,9 +25,15 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
 - Non-resi property types (Comm, Indus, Utility, Vacant Land) show limited activity prior to ~2018 followed by a noticeable increase over the last 5 years
 
 #### 1.3 By Town
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.3%20Sales_over_time_for_top_10_towns.png?raw=true)
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.3%20Sales_over_time_for_top_10_towns.png?raw=true"
+  width="900"
+/>
 
-![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.4%20Median_sales_by_town.png?raw=true)
+<img 
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.4%20Median_sales_by_town.png?raw=true"
+  width="500"
+/>
 
 #### Observations
 - **The top 10 towns collectively account for ~37% of total sales value**
