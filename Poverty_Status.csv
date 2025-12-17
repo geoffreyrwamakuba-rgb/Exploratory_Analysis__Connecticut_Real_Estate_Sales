@@ -1,0 +1,170 @@
+﻿Year,GeoID,Geography Type,Geography Name,Race/Ethnicity,Poverty,Value,Margin of Error,Measure,ObjectId
+2023,0911025360,Town,Ellington,Total,Under,5,2.8,Percent,65610
+2023,0911025990,Town,Enfield,Total,Under,8,1.7,Percent,65636
+2023,0911027600,Town,Farmington,Total,Under,5.4,1.5,Percent,65645
+2023,0911031240,Town,Glastonbury,Total,Under,3.7,1,Percent,65654
+2023,0911032640,Town,Granby,Total,Under,2.8,1.5,Percent,65663
+2023,0911037070,Town,Hartford,Total,Under,25.5,1.8,Percent,65672
+2023,0911001080,Town,Andover,Total,Under,0.9,0.8,Percent,65680
+2023,0911037910,Town,Hebron,Total,Under,3.9,1.4,Percent,65685
+2023,0911060120,Town,Plainville,Total,Under,7.2,2.1,Percent,65693
+2023,0911016400,Town,Columbia,Total,Under,6.7,4.9,Percent,65710
+2023,0911044700,Town,Manchester,Total,Under,12.4,2,Percent,65736
+2023,0911044910,Town,Mansfield,Total,Under,22,4.9,Percent,65745
+2023,0911045820,Town,Marlborough,Total,Under,9.2,7.6,Percent,65754
+2023,0911050440,Town,New Britain,Total,Under,18.6,1.9,Percent,65763
+2023,0911052140,Town,Newington,Total,Under,7.2,1.7,Percent,65772
+2023,0911002060,Town,Avon,Total,Under,4.8,2.3,Percent,65779
+2023,0911065370,Town,Rocky Hill,Total,Under,3.9,1.2,Percent,65795
+2023,0911017800,Town,Coventry,Total,Under,4.3,2.7,Percent,65806
+2023,0911004300,Town,Berlin,Total,Under,4.5,1.6,Percent,65828
+2023,0911005910,Town,Bloomfield,Total,Under,7.4,2.2,Percent,65837
+2023,0911006260,Town,Bolton,Total,Under,8.1,4.7,Percent,65846
+2023,0911012270,Town,Canton,Total,Under,4.7,3.3,Percent,65855
+2023,0911068940,Town,Simsbury,Total,Under,5.3,2.1,Percent,65876
+2023,0911022070,Town,East Granby,Total,Under,1.6,1.6,Percent,65885
+2023,0911069220,Town,Somers,Total,Under,2,1,Percent,65918
+2023,0911022630,Town,East Hartford,Total,Under,14.7,2.5,Percent,65929
+2023,0911070550,Town,Southington,Total,Under,4.1,1.2,Percent,65960
+2023,0911024800,Town,East Windsor,Total,Under,7,3.2,Percent,65991
+2023,0913061800,Town,Portland,Total,Under,5.2,2.1,Percent,66003
+2023,0913020810,Town,Durham,Total,Under,4.2,2.8,Percent,66009
+2023,0913014300,Town,Chester,Total,Under,12.1,5.5,Percent,66027
+2023,0913015350,Town,Clinton,Total,Under,6.1,2,Percent,66036
+2023,0913018080,Town,Cromwell,Total,Under,6.4,2.6,Percent,66045
+2023,0913019130,Town,Deep River,Total,Under,6.1,4.2,Percent,66054
+2023,0912008070,Town,Bridgeport,Total,Under,22.5,1.8,Percent,66075
+2023,0913044210,Town,Lyme,Total,Under,2.2,1.8,Percent,66077
+2023,0911071390,Town,South Windsor,Total,Under,4,1.6,Percent,66079
+2023,0913081680,Town,Westbrook,Total,Under,5.8,2.5,Percent,66088
+2023,0914008490,Town,Bristol,Total,Under,8.4,1.4,Percent,66092
+2023,0911084900,Town,Wethersfield,Total,Under,5.8,2.1,Percent,66108
+2023,0911072090,Town,Stafford,Total,Under,6.5,2.6,Percent,66118
+2023,0911074540,Town,Suffield,Total,Under,3.6,1.6,Percent,66127
+2023,0911076290,Town,Tolland,Total,Under,6,2.4,Percent,66136
+2023,0911078250,Town,Vernon,Total,Under,11.7,2.4,Percent,66145
+2023,0911082590,Town,West Hartford,Total,Under,6,1,Percent,66154
+2023,0912023890,Town,Easton,Total,Under,7.7,4.5,Percent,66167
+2023,0913047080,Town,Middlefield,Total,Under,6.2,5.3,Percent,66168
+2023,0914014160,Town,Cheshire,Total,Under,4.2,1.6,Percent,66180
+2023,0911085950,Town,Willington,Total,Under,15.2,5.2,Percent,66194
+2023,0914019550,Town,Derby,Total,Under,9.3,3.5,Percent,66214
+2023,0914046940,Town,Middlebury,Total,Under,5.4,3.9,Percent,66223
+2023,0914049950,Town,Naugatuck,Total,Under,6.1,2,Percent,66232
+2023,0914058300,Town,Oxford,Total,Under,2.4,1.7,Percent,66241
+2023,0913022280,Town,East Haddam,Total,Under,5,2.4,Percent,66247
+2023,0913047360,Town,Middletown,Total,Under,12.2,1.7,Percent,66248
+2023,0912026620,Town,Fairfield,Total,Under,4.7,1.1,Percent,66255
+2023,0913022490,Town,East Hampton,Total,Under,4.6,2,Percent,66264
+2023,0913026270,Town,Essex,Total,Under,3.4,1.7,Percent,66273
+2023,0913035230,Town,Haddam,Total,Under,2.8,1.9,Percent,66282
+2023,0913040710,Town,Killingworth,Total,Under,3.7,2.7,Percent,66291
+2023,0914001220,Town,Ansonia,Total,Under,8.6,2.4,Percent,66299
+2023,0913057040,Town,Old Lyme,Total,Under,2.3,1.1,Percent,66309
+2023,0913057320,Town,Old Saybrook,Total,Under,4.9,2.3,Percent,66318
+2023,0911087000,Town,Windsor,Total,Under,5.2,1.3,Percent,66333
+2023,0912048620,Town,Monroe,Total,Under,2.5,1.5,Percent,66344
+2023,0914003250,Town,Beacon Falls,Total,Under,4,3.3,Percent,66349
+2023,0911087070,Town,Windsor Locks,Total,Under,9.6,4,Percent,66354
+2023,0914004930,Town,Bethlehem,Total,Under,8.2,6.1,Percent,66378
+2023,0912074190,Town,Stratford,Total,Under,6.7,1.2,Percent,66389
+2023,0912077200,Town,Trumbull,Total,Under,6.1,1.9,Percent,66398
+2023,0916002760,Town,Barkhamsted,Total,Under,4.7,3.9,Percent,66411
+2023,0916010100,Town,Burlington,Total,Under,3.1,1.3,Percent,66420
+2023,0916010940,Town,Canaan,Total,Under,16.8,14.9,Percent,66429
+2023,0916016050,Town,Colebrook,Total,Under,6.9,3.8,Percent,66438
+2023,0916017240,Town,Cornwall,Total,Under,16.2,6,Percent,66451
+2023,0916049460,Town,Morris,Total,Under,4.3,3.1,Percent,66456
+2023,0915036000,Town,Hampton,Total,Under,6.4,3.2,Percent,66465
+2023,0914075730,Town,Thomaston,Total,Under,2.6,1.6,Percent,66472
+2023,0916032290,Town,Goshen,Total,Under,6.4,4.2,Percent,66482
+2023,0915073420,Town,Sterling,Total,Under,17.9,7.6,Percent,66493
+2023,0915001430,Town,Ashford,Total,Under,4.8,3.3,Percent,66499
+2023,0916051350,Town,New Hartford,Total,Under,1.6,1.1,Percent,66507
+2023,0915040500,Town,Killingly,Total,Under,14.7,3.7,Percent,66523
+2023,0914080070,Town,Waterbury,Total,Under,23.9,2,Percent,66526
+2023,0916037140,Town,Hartland,Total,Under,3.2,1.5,Percent,66539
+2023,0915075870,Town,Thompson,Total,Under,6.1,2.9,Percent,66542
+2023,0916053470,Town,Norfolk,Total,Under,9.6,3.8,Percent,66546
+2023,0916054030,Town,North Canaan,Total,Under,19.4,8.9,Percent,66555
+2023,0916065930,Town,Roxbury,Total,Under,3.3,2,Percent,66564
+2023,0916066420,Town,Salisbury,Total,Under,4.8,4.6,Percent,66573
+2023,0915009190,Town,Brooklyn,Total,Under,3.4,1.8,Percent,66589
+2023,0914060750,Town,Plymouth,Total,Under,7.1,2.8,Percent,66595
+2023,0914062290,Town,Prospect,Total,Under,2.3,2,Percent,66604
+2023,0914067610,Town,Seymour,Total,Under,6.3,2.4,Percent,66613
+2023,0914068170,Town,Shelton,Total,Under,5.6,1.6,Percent,66622
+2023,0914069640,Town,Southbury,Total,Under,3.3,0.7,Percent,66631
+2023,0916037280,Town,Harwinton,Total,Under,4,2.2,Percent,66648
+2023,0915059980,Town,Plainfield,Total,Under,8.8,3,Percent,66653
+2023,0915077830,Town,Union,Total,Under,7.2,3.8,Percent,66666
+2023,0916040290,Town,Kent,Total,Under,10.4,6.1,Percent,66675
+2023,0915012130,Town,Canterbury,Total,Under,5.1,3.4,Percent,66680
+2023,0915061030,Town,Pomfret,Total,Under,6.1,4.6,Percent,66689
+2023,0915078600,Town,Voluntown,Total,Under,6.6,5.4,Percent,66703
+2023,0916043370,Town,Litchfield,Total,Under,4.3,1.9,Percent,66710
+2023,0915013810,Town,Chaplin,Total,Under,6.7,3.1,Percent,66716
+2023,0915062710,Town,Putnam,Total,Under,10.6,3.3,Percent,66725
+2023,0915067400,Town,Scotland,Total,Under,4.1,2.3,Percent,66743
+2023,0915021860,Town,Eastford,Total,Under,8,4.6,Percent,66752
+2023,0915088190,Town,Woodstock,Total,Under,4.7,2.3,Percent,66760
+2023,0914080490,Town,Watertown,Total,Under,4.9,2,Percent,66769
+2023,0914087560,Town,Wolcott,Total,Under,1.5,0.9,Percent,66781
+2023,0914087910,Town,Woodbury,Total,Under,5.7,2.7,Percent,66790
+2023,0917004580,Town,Bethany,Total,Under,0.7,0.8,Percent,66809
+2023,0917007310,Town,Branford,Total,Under,6.6,2.3,Percent,66818
+2023,0918055500,Town,North Stonington,Total,Under,6,4.9,Percent,66833
+2023,0917022910,Town,East Haven,Total,Under,8,1.6,Percent,66834
+2023,0918006820,Town,Bozrah,Total,Under,9.9,5.3,Percent,66843
+2023,0917057600,Town,Orange,Total,Under,3.1,1.2,Percent,66862
+2023,0917078740,Town,Wallingford,Total,Under,5.8,1.4,Percent,66871
+2023,0917082870,Town,West Haven,Total,Under,12.5,1.8,Percent,66880
+2023,0917087700,Town,Woodbridge,Total,Under,1.7,1,Percent,66889
+2023,0917044560,Town,Madison,Total,Under,1.9,0.7,Percent,66907
+2023,0918080280,Town,Waterford,Total,Under,4.7,2,Percent,66910
+2023,0916067960,Town,Sharon,Total,Under,8.2,3.8,Percent,66913
+2023,0918042390,Town,Lebanon,Total,Under,5.3,4.2,Percent,66920
+2023,0918056270,Town,Norwich,Total,Under,14.9,2.7,Percent,66940
+2023,0917034950,Town,Guilford,Total,Under,3.1,0.9,Percent,66941
+2023,0918086790,Town,Windham,Total,Under,22.3,3.7,Percent,66951
+2023,0917046520,Town,Meriden,Total,Under,14.2,2.3,Percent,66963
+2023,0916076570,Town,Torrington,Total,Under,13.6,3,Percent,66967
+2023,0918042600,Town,Ledyard,Total,Under,7.5,3.8,Percent,66976
+2023,0917035650,Town,Hamden,Total,Under,9.4,1.8,Percent,66995
+2023,0918062150,Town,Preston,Total,Under,1.6,1.2,Percent,67007
+2023,0916079510,Town,Warren,Total,Under,4.9,2.3,Percent,67027
+2023,0917047535,Town,Milford,Total,Under,4.4,0.8,Percent,67029
+2023,0918015910,Town,Colchester,Total,Under,4.2,1.2,Percent,67034
+2023,0918043230,Town,Lisbon,Total,Under,7.3,3.8,Percent,67043
+2023,0919004720,Town,Bethel,Total,Under,4.3,1.4,Percent,67050
+2023,0916079720,Town,Washington,Total,Under,11.8,5.9,Percent,67056
+2023,0916086440,Town,Winchester,Total,Under,14,4.5,Percent,67065
+2023,0918066210,Town,Salem,Total,Under,6.3,3.6,Percent,67084
+2023,0917052070,Town,New Haven,Total,Under,25,1.8,Percent,67096
+2023,0918023400,Town,East Lyme,Total,Under,4.9,1.8,Percent,67098
+2023,0919008210,Town,Bridgewater,Total,Under,2.5,1.3,Percent,67109
+2023,0918071670,Town,Sprague,Total,Under,11.7,7,Percent,67124
+2023,0917053890,Town,North Branford,Total,Under,3.4,1.7,Percent,67131
+2023,0918029910,Town,Franklin,Total,Under,8.1,4.3,Percent,67134
+2023,0917054870,Town,North Haven,Total,Under,4.7,2,Percent,67149
+2023,0918033900,Town,Griswold,Total,Under,7.4,3,Percent,67167
+2023,0918048900,Town,Montville,Total,Under,8,2.5,Percent,67169
+2023,0918073770,Town,Stonington,Total,Under,6,1.9,Percent,67171
+2023,0918034250,Town,Groton,Total,Under,10,1.7,Percent,67190
+2023,0918052350,Town,New London,Total,Under,21,3.9,Percent,67191
+2023,0919056060,Town,Norwalk,Total,Under,10.1,1.6,Percent,67204
+2023,0919063480,Town,Redding,Total,Under,3.7,1.7,Percent,67213
+2023,0919063970,Town,Ridgefield,Total,Under,3.2,1.1,Percent,67222
+2023,0919068310,Town,Sherman,Total,Under,2.9,1.7,Percent,67231
+2023,0919073070,Town,Stamford,Total,Under,9.5,1.1,Percent,67240
+2023,0919083430,Town,Weston,Total,Under,2,1,Percent,67249
+2023,0919083500,Town,Westport,Total,Under,3.6,1.1,Percent,67258
+2023,0919086370,Town,Wilton,Total,Under,2.5,0.8,Percent,67267
+2023,0919008980,Town,Brookfield,Total,Under,5.8,2.2,Percent,67270
+2023,0919018500,Town,Danbury,Total,Under,11.1,1.8,Percent,67279
+2023,0919018850,Town,Darien,Total,Under,6,2.4,Percent,67288
+2023,0919033620,Town,Greenwich,Total,Under,5.4,0.9,Percent,67297
+2023,0919050580,Town,New Canaan,Total,Under,3.3,1.3,Percent,67306
+2023,0919050860,Town,New Fairfield,Total,Under,4.1,2.2,Percent,67315
+2023,0919052630,Town,New Milford,Total,Under,7.6,3.6,Percent,67324
+2023,0919052980,Town,Newtown,Total,Under,4.7,1.5,Percent,67333
