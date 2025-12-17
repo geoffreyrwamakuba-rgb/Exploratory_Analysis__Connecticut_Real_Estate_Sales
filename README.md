@@ -56,12 +56,11 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
   - After removing extreme outliers, residential properties show a relatively narrow interquartile range, with median profit margins being modestly positive (~50-70%)
   - This suggests strong price discovery and competitive pricing in high-volume housing markets
 - **Commercial and “Other” property types display wider dispersion and higher upside variability**
-  - Even with fliers removed, commercial and other non-resi property types exhibit broader profit distributions 
+  - Even with fliers removed, commercial and other non-resi property types exhibit broader profit distributions
   - This reflects the heterogeneity of these assets, where sale outcomes depend on other factors  as seen before (redevelopment potential, income streams, zoning changes)
 
 ### 3.  Which towns or regions have the highest sale price over the years?
 ![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/3.%20Filled%20Map.png?raw=true)
-
 
 #### Observations
 - **Southwestern Connecticut clearly dominates median sale prices**
@@ -71,15 +70,34 @@ Completed in Python (Pandas, NumPy, Matplotlib, Seaborn) to uncover long-term tr
 - **Price gradients weaken rapidly moving inland**
   - Much of central and eastern Connecticut shows sub-$700k medians, with many towns closer to $400–600k
   - Inland towns are:
-    - Less connected to NYC labor markets
+    - Less connected to NYC labour markets
     - More dependent on local or regional employment
-    - Eastern Connecticut has historically experienced slower population and income growth, particularly post-manufacturing decline.
+    - Eastern Connecticut has historically experienced slower population and income growth, particularly post-manufacturing decline
 
 ### 4.1 How do median household income, education levels, or poverty rates correlate with prices and sales activity?
 ![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/4.%20Demographics_correlation_heatmap.png?raw=true)
 
+#### Observations
+- **As expected, income and education are highly correlated**
+- **Socioeconomic variables show only weak linear relationships with sales outcomes**
+  - Median household income, education level, and poverty rate all exhibit very weak correlations (|r| < 0.15) with sales ratios or sale values
+  - Property prices are more strongly driven by: Property-specific characteristics (size, location within town, quality) & Market dynamics
+- **Sales ratio behaves differently from absolute sale values**
+  - Sales Ratio Calculated shows zero / near-zero correlations with socioeconomic variables compared to absolute sale values
+  - Assessments may already partially account for local income differences
+  - Deviations from assessed values are driven more by market dynamics
+
 ### 5. How did COVID-19 pandemic years affect sale prices and volumes in Connecticut?
 ![alt text](https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/5.%20COVID%20YoY%20growth.png?raw=true)
+
+#### Observations
+- **YoY metrics are used here to remove seasonality and isolate structural shocks**
+- **Sales value growth is significantly more volatile than sales volume**
+  - Sales value YoY has extreme swings (>100% during 2020–2021 and <−60% in 2022), while sales volume remains comparatively stable
+  - This indicates that price effects, rather than changes in transaction counts, were the dominant driver of total sales fluctuations
+  - This highlights how supply shortages, bidding pressure, and shifts toward higher-value properties amplified sales value independently of deal volume
+- **COVID produced an abnormal price-led cycle rather than a volume-led one**
+  - This behaviour contrasts with typical downturns, which usually show volume declines first and sustained price weakness
 
 ### Data Cleaning & Preparation
 - Removed rows with missing or invalid sale dates, prices, or assessed values
