@@ -145,3 +145,6 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 - **Data Sources:**
   - Connecticut Real Estate Sales (2001–2023) - [Data.gov](https://catalog.data.gov/dataset/real-estate-sales-2001-2018)
   - CPI data from the [Federal Reserve (FRED)](https://fred.stlouisfed.org/series/CPIAUCSL)
+  - GEOJSON data - [Data.gov](https://catalog.data.gov/dataset/ct-municipalities/resource/c7bd5a8d-5dfd-4c89-9464-3123d7c769e7)
+  - Demographic data - [CTdata](https://www.ctdata.org/data-by-topic)
+  - COVID data - [Data.ct](https://data.ct.gov/Health-and-Human-Services/COVID-19-State-Level-Data-Archive/qmgw-5kp6/about_data)
